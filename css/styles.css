@@ -1,13 +1,16 @@
 
 .sidebar {
-  float: right;
+  border: 4px solid grey;
+  float: left;
   background-color: salmon;
   width: 30%;
 }
 .sidebar1 {
+  border: 3px solid green;
   float: left;
   background-color: grey;
   width: 30%;
+  padding: 20px;
 }
 h1 {
   text-align: center;
@@ -24,7 +27,16 @@ h2 {
   padding: 10px;
 }
 img {
+  padding: 4px;
   display: block;
   margin: auto;
   width:40%
+}
+.margin {
+  border: 4px sky blue;
+  float: left;
+  background-color: yellow;
+  width: 30%;
+  padding: 20 px;
+
 }
