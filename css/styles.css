@@ -1,0 +1,30 @@
+
+.sidebar {
+  float: right;
+  background-color: salmon;
+  width: 30%;
+}
+.sidebar1 {
+  float: left;
+  background-color: grey;
+  width: 30%;
+}
+h1 {
+  text-align: center;
+  color: grey;
+}
+h2 {
+  text-align: center;
+  color: green;
+}
+.center {
+  margin:auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+img {
+  display: block;
+  margin: auto;
+  width:40%
+}
